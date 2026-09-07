@@ -1,0 +1,8 @@
+本人为独立开发者，长期从事 AI Agent 运行时安全验证方向的开源工程与标准研究，全部成果公开可核验：
+
+1. 开源作品：Correctover CCS（AI Agent 审计收据规范）开源工具矩阵，npm 平台 9 个开源包合计月下载量约 1.2 万次，其中 correctover-mcp-server 单包月下载 3,937 次，GitHub 公开仓库持续维护。
+2. 标准出版物：独立撰写 Internet-Draft《draft-correctover-ccs-08》（CCS Receipt 规范，个人提交的公开技术草案，非 RFC、非 IETF 官方背书），并已在 Zenodo 完成 DOI 存缴确权（DOI: 10.5281/zenodo.22266162，含密码学时间戳锚定）。
+3. 服务数据：CCS 验证服务已在 SkillHub 技能平台上架 5 个技能包（免费版已通过平台审核，累计下载约 200 次），在扣子虾评试运行 3 款技能，用户评分 4.6 分以上。
+4. 行业协作：作为审稿贡献者参与 x402-foundation/x402 支付协议 response-provenance 扩展讨论（PR #3304 / issue #3234），获提案作者三次具名致谢；correctover-scan 安全扫描 CLI 已被 awesome-ai-security 开源资源榜收录合并。
+
+所有数据均可在 npm、GitHub、IETF Datatracker、Zenodo、SkillHub 公开查询核验，证明材料见上传截图。
